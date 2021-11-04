@@ -1,0 +1,21 @@
+
+.btn-pink {
+  border-radius: 30px;
+  padding: 10px 80px;
+  border: 1px black transparent;
+  color:white;
+  background-color:orangered;
+  width: 50px;
+}
+
+.btn-pink:hover {
+  opacity: 0.6;
+}
+
+.paraph{
+  color: black;
+  font-weight: bolder;
+  text-align: justify;
+  font-size: 16px;
+  text-shadow: black;
+}

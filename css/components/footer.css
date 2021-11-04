@@ -1,0 +1,23 @@
+
+#footer{
+  background-color: rgba(241, 55, 8, 0.911);
+  padding: 25px;
+  text-align: center;
+}
+
+
+#footer>h2{
+    color: white;
+}
+
+#text-footer{
+  color: white;
+}
+
+
+.fab{
+  size: 30px;
+  background-color: rgb(241, 55, 8, 0.911);
+  color:rgb(247, 246, 244);
+  width: 20%;
+  }
